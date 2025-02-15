@@ -28,7 +28,7 @@ export const TipCard = styled.div`
   transition: all 0.3s ease;
 
   &:hover {
-    transform: scale(1.005);
+    transform: scale(1.005)
   }
 
   p {

@@ -36,7 +36,7 @@ const Login = () => {
   };
 
   return (
-    <MainContainer> 
+    <MainContainer>
       <FlexCollCenter>
         <DivImg>
           <Img src={loginImg} alt="Login Image" />

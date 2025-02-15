@@ -148,7 +148,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autor
 
-Pedro Corrêa - [GitHub](https://github.com/seu-usuario)
+Seu Nome - [GitHub](https://github.com/seu-usuario)
 
 ---
 
