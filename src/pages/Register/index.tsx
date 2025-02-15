@@ -99,7 +99,7 @@ const Register = () => {
         <DivDescription>
           <h3>Crie sua Conta</h3>
           <p>
-            Cadastre-se para monitorar seus consumos, atividades diárias e receber dicas para uma vida mais sustentável.
+            Cadastre-se para acompanhar seu impacto ambiental, otimizar seus hábitos diários e descubrir novas formas de viver de maneira mais sustentável. 🌿
           </p>
         </DivDescription>
       </FlexCollCenter>
@@ -119,7 +119,7 @@ const Register = () => {
             <InputIcon src={userIcon} alt="User Icon" />
           </DivInput>
 
-          <Label htmlFor="email">Email</Label>
+          <Label htmlFor="email">E-mail</Label>
           <DivInput>
             <Input 
               type="email" 

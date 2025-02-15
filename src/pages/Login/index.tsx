@@ -43,16 +43,16 @@ const Login = () => {
         </DivImg>
 
         <DivDescription>
-          <h3>Entre com seu Email</h3>
+          <h3>Entre com seu E-mail</h3>
           <p>
-            Monitore seus consumos, atividades diárias e receba dicas para uma vida mais sustentável.
+          Acompanhe seu impacto ambiental, otimize seus hábitos diários e descubra novas formas de viver de maneira mais sustentável. 🌿
           </p>
         </DivDescription>
       </FlexCollCenter>
 
       <FlexCollCenter>
         <form onSubmit={login}>
-          <Label htmlFor="email">Email</Label>
+          <Label htmlFor="email">E-mail</Label>
           <DivInput>
             <Input type="email" placeholder="Email" name="email" required onChange={e => setEmail(e.target.value)} />
             <InputIcon src={emailIcon} alt="Email Icon" />
